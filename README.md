@@ -22,7 +22,7 @@ Mediante Apache version Apache/2.4.61 (Debian) , se crea en la carpeta /var/www 
 
 Home Assisten:
 
-![imagen](https://github.com/user-attachments/assets/faf02e63-179a-44e1-abbf-aac32f59d27a)
+<img src="https://github.com/user-attachments/assets/faf02e63-179a-44e1-abbf-aac32f59d27a" alt="imagen" width="100">
 
 
 Mediante este software se configuran los dispositivos IoT , de cualquier fabricante.
