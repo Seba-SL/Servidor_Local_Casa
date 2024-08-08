@@ -30,6 +30,8 @@ Mediante este software se configuran los dispositivos IoT , de cualquier fabrica
 Capturas del Proyecto:
 
 Vista de PC:
+
+
 ![imagen](https://github.com/user-attachments/assets/5184332b-c1aa-4a43-a392-28c422aa7800)
 
 ![imagen](https://github.com/user-attachments/assets/5e9065a6-097e-421d-aa06-960ffd9cc84c)
