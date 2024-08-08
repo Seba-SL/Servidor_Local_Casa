@@ -14,18 +14,36 @@ Usando un acortador web , los integrantes de la familia pueden ingresar con un h
 Se opto por utilizar el acortador web Tinyurl: https://tinyurl.com/
 
 Servidor Local : 
+Mediante Apache version Apache/2.4.61 (Debian) , se crea en la carpeta /var/www , un directorio donde se guarda el sitio web, con su pagina por defecto index.html , su carpeta de recursos (imagenes ,etc) y un archivo con el codigo de estilos CSS.
 
 ![imagen](https://github.com/user-attachments/assets/218859a9-a7e7-440c-8e0e-3143bd6ef88d)
 
 
-Mediante Apache version Apache/2.4.61 (Debian) , se crea en la carpeta /var/www , un directorio donde se guarda el sitio web, con su pagina por defecto index.html , su carpeta de recursos (imagenes ,etc) y un archivo con el codigo de estilos CSS.
+
 
 Home Assisten:
+Mediante este software se configuran los dispositivos IoT , de cualquier fabricante.
 
 <img src="https://github.com/user-attachments/assets/faf02e63-179a-44e1-abbf-aac32f59d27a" alt="imagen" width="100">
 
 
-Mediante este software se configuran los dispositivos IoT , de cualquier fabricante.
+Capturas del Proyecto:
+
+Vista de PC:
+![imagen](https://github.com/user-attachments/assets/5184332b-c1aa-4a43-a392-28c422aa7800)
+
+![imagen](https://github.com/user-attachments/assets/5e9065a6-097e-421d-aa06-960ffd9cc84c)
+
+
+Vista desde celular:
+
+![imagen](https://github.com/user-attachments/assets/b5f08151-bf8e-461a-84ef-04b9a9ae1b39)
+
+![imagen](https://github.com/user-attachments/assets/95571045-633c-4d4e-9045-c1ce8029e594)
+
+
+
+
 
 
 
