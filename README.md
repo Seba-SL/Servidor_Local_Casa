@@ -25,7 +25,22 @@ Home Assisten:
 Mediante este software se configuran los dispositivos IoT , de cualquier fabricante.
 
 <img src="https://github.com/user-attachments/assets/faf02e63-179a-44e1-abbf-aac32f59d27a" alt="imagen" width="100">
+Que se puede lograr con Home Assistant:
+Automatización de Dispositivos: Puedes programar reglas para que tus dispositivos inteligentes actúen de manera automática. Por ejemplo, encender las luces cuando se detecta movimiento o ajustar la temperatura del termostato según la hora del día.
 
+Integración de Dispositivos: Home Assistant es compatible con una amplia variedad de dispositivos y servicios, como luces, cámaras de seguridad, termostatos, interruptores y sistemas de riego. Puedes integrarlos todos en una sola plataforma para un control más centralizado.
+
+Creación de Escenas y Scripts: Puedes crear escenas que agrupen varios dispositivos para que actúen juntos en una situación específica, como una escena de "cine" que apague las luces y encienda el sistema de sonido. También puedes escribir scripts para tareas más complejas.
+
+Monitoreo y Notificaciones: Home Assistant puede monitorear el estado de tus dispositivos y enviarte notificaciones sobre eventos importantes, como una puerta que se ha dejado abierta o una fuga de agua detectada por sensores.
+
+Interfaz Personalizada: Puedes personalizar el panel de control de Home Assistant para que se adapte a tus necesidades y preferencias, añadiendo paneles, tarjetas y vistas que muestren la información más relevante para ti.
+
+Control Remoto: Puedes controlar y supervisar tus dispositivos desde cualquier lugar mediante la aplicación móvil de Home Assistant o a través de una interfaz web.
+
+Integración con Servicios en la Nube: Home Assistant se puede conectar a servicios en la nube como Google Assistant, Amazon Alexa y otros, permitiéndote usar comandos de voz para controlar tus dispositivos.
+
+Automatización Basada en la Ubicación: Puedes configurar automatizaciones basadas en la ubicación, como encender las luces cuando llegas a casa o ajustar la temperatura cuando estás cerca de tu casa.
 
 Capturas del Proyecto:
 
