@@ -37,5 +37,6 @@ Externo en discos HDD reciclados, escalamiento esperable en discos SSD.
 
 6) Pruebas
 <img width="1366" height="768" alt="imagen" src="https://github.com/user-attachments/assets/bce1f2f4-e3dc-4388-a783-f4ca76e3ab4b" />
+<img width="1366" height="768" alt="imagen" src="https://github.com/user-attachments/assets/8054f7c2-d204-4876-98a1-beff3996f260" />
 
 
