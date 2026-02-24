@@ -19,4 +19,4 @@ Externo en discos HDD reciclados, escalamiento esperable en discos SSD.
 
 <img width="293" height="651" alt="imagen" src="https://github.com/user-attachments/assets/deb00dd3-7af3-45b7-9101-bd679ceaec82" />
 
-[![Ver video][(https://img.youtube.com/vi/ABC123/maxresdefault.jpg)](https://www.youtube.com/watch?v=ABC123)](https://youtube.com/shorts/UNUVcOVLjiA?si=-bWMhck90Zxxl2p6)
+[![Ver video][(https://www.youtube.com/watch?v=ABC123)](https://youtube.com/shorts/UNUVcOVLjiA?si=-bWMhck90Zxxl2p6)
