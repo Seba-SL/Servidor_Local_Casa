@@ -14,6 +14,7 @@ Externo en discos HDD reciclados, escalamiento esperable en discos SSD.
 
 
 1) Instalación y reprogramación de Bios dañada en netbook obsoleta sin uso.
+<img width="629" height="435" alt="imagen" src="https://github.com/user-attachments/assets/86971f04-6c0e-4cbe-beda-865510a7a346" />
 
 <a href="https://youtube.com/shorts/UNUVcOVLjiA?si=-bWMhck90Zxxl2p6">
   <img src="https://img.shields.io/badge/Watch%20Video-YouTube-red?style=for-the-badge&logo=youtube" />
@@ -29,8 +30,12 @@ Externo en discos HDD reciclados, escalamiento esperable en discos SSD.
 
 3) Montaje de disco externo
 
-4) Intalación y configuración de serviciós
+   <img width="283" height="318" alt="imagen" src="https://github.com/user-attachments/assets/9e245b40-3c4b-4eac-8f75-9ac298dc656a" />
 
-5) Pruebas
+
+5) Intalación y configuración de serviciós
+
+6) Pruebas
+<img width="1366" height="768" alt="imagen" src="https://github.com/user-attachments/assets/bce1f2f4-e3dc-4388-a783-f4ca76e3ab4b" />
 
 
